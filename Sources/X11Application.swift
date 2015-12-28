@@ -8,8 +8,8 @@
 
 import Foundation
 import VistaCommon
-import CX11.Xlib
-import CX11.X
+import CGLX.X
+import CGLX.Glx
 
 public class X11Application {
 
